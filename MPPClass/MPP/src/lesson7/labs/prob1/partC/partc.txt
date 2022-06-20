@@ -1,0 +1,1 @@
+PartC: HashMap needs method has code overridden from Object, and it was missing in the class Employee

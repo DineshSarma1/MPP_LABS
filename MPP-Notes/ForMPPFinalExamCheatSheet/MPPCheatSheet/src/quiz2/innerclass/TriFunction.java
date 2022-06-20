@@ -1,0 +1,6 @@
+package quiz2.innerclass;
+
+@FunctionalInterface
+public interface TriFunction<S,T,U,R> {
+	R apply(S s, T t, U u);
+}

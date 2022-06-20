@@ -1,0 +1,18 @@
+Student ID: 614190
+Name: PRAVASH RAJ UPRETI
+
+Write a short essay discussing the relationship between an SCI principle
+of your choosing and a Computer Science principle that is relevant for
+this MPP course. Richer content will be awarded more credit.
+
+ 
+ 
+Purification leads to progress:  
+If something needs to be improved, there are positive changes on a regular basis. The same thing happens with the Java programming language. 
+ Prior to the introduction of Java 8,  functional programming was not available. 
+ This was one of the drawbacks of Java, but due to the improvements in the  Java language's drawbacks, 
+ Functional programming has been introduced to help improve Java functionality. Now the functional programming
+ enables to declare the task rather than implementing it. Similar things happens on consiousness space. The more
+ declarative the more abstract. The TM helps to get in to the deeper silence by purifying all the surface level noise.
+ 
+ 
